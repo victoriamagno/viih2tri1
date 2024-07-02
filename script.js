@@ -15,38 +15,38 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "qual a diferença entre inteligência artificial fraca e forte?",
         alternativa: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "a IA fraca é especializada em tarefas específicas,enquanto isso,a forte busca reproduzir a inteligência humana de forma geral.",
+                afirmacao: "Então a fraca é usa mais no dia a dia ."
             },
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "quais são as implicações da IA para o futuro do trabalho e do emprego?",
         alternativa: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "aumento do desemprego, à escalada das desigualdades sociais e à necessidade de realocação profissional.",
+                afirmacao: "os empregos que hoje existem, mais pra frente poderam acabar."
             },
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "quais são os principais desafios éticos da IA?",
         alternativa: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "a responsabilidade pelo conteúdo gerado.",
+                afirmacao: "usada de forma errada,pode prejudicar as pessoas."
             },
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "como a IA pode ser usada para melhorar a segurança cibernética? ",
         alternativa: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Algoritmos de IA podem analisar grandes volumes de dados em tempo real.",
+                afirmacao: "você consegue fazer os trabalhos mais rápido, sem ocupar muito seu tempo."
             },
         ]
     },
